@@ -15,14 +15,14 @@ public interface iCalculadora {
      * @param a,b
      * @return sum a,b
      */
-	int sum(int a, int b);
+	int sumar(int a, int b);
 	/**
 	 * 
 	 * @param subtraction
 	 * @param a,b
 	 * @return subtraction a,b
 	 */
-	int subtraction(int a,int b);
+	int restar(int a,int b);
 	/**
 	 * 
 	 * @param division

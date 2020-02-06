@@ -113,12 +113,12 @@ public void init() throws IOException, URISyntaxException {
 	
 }
 @Override
-public int sum(int a, int b) {
+public int sumar(int a, int b) {
 	// TODO Auto-generated method stub
 	return 0;
 }
 @Override
-public int subtraction(int a, int b) {
+public int restar(int a, int b) {
 	// TODO Auto-generated method stub
 	return 0;
 }
